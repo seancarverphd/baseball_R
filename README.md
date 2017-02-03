@@ -3,6 +3,8 @@ baseball_R
 
 Companion to Analyzing Baseball Data with R.
 
+Version: ver_carver.
+
 Official book page: http://www.crcpress.com/product/isbn/9781466570221
 Book's blog: http://baseballwithr.wordpress.com/
 
